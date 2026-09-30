@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "built_with_2_player.aternos.me",
-    "port": 39197,
+    "ip": "standardsmp5.aternos.me",
+    "port": 28892,
     "version": "",
     "try-creative": false
   },
